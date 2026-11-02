@@ -51,7 +51,7 @@ The project currently runs on deterministic, built-in sample data, so it can be 
 | `app.py` | Streamlit web interface |
 | `test_offline.py` | Offline checks for tools and schema |
 | `requirements.txt` | Python dependencies |
-| `.env.example` | Example environment configuration |
+| `.env` |  Environment configuration |
 
 ## Getting Started
 
